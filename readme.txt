@@ -1,3 +1,4 @@
+Video : https://www.youtube.com/watch?v=Hq6ZpUKLHvQ&feature=youtu.be
 
 Stay woke is an integrated circuit that operates as a clock, alarm system, temperature sensor and heartbeat detector. 
 The objective of Stay Woke is to have both a clock and an alarm system that also functions as a sleep detector to wake up the 
